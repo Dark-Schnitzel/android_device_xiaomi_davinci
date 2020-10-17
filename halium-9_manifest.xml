@@ -1,0 +1,3 @@
+<remote name="device"
+    fetch="https://github.com/Dark-Schnitzel"
+    revision= "halium-9.0" />
